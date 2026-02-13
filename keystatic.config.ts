@@ -5,7 +5,7 @@ export const markdocConfig = fields.markdoc.createMarkdocConfig({});
 export default config({
   storage: {
     kind: 'github',
-    repo: 'thebalayoges/shs-admin'
+    repo: 'thebalayogesh/shs-keystatic-test'
   },
   collections: {
     posts: collection({
